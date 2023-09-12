@@ -1,0 +1,9 @@
+D:\Phase4\Day3\Ass2\Nunit\Nunit\bin\Debug\Nunit.dll
+D:\Phase4\Day3\Ass2\Nunit\Nunit\bin\Debug\Nunit.pdb
+D:\Phase4\Day3\Ass2\Nunit\Nunit\bin\Debug\nunit.framework.dll
+D:\Phase4\Day3\Ass2\Nunit\Nunit\bin\Debug\nunit.framework.xml
+D:\Phase4\Day3\Ass2\Nunit\Nunit\obj\Debug\Nunit.csproj.AssemblyReference.cache
+D:\Phase4\Day3\Ass2\Nunit\Nunit\obj\Debug\Nunit.csproj.CoreCompileInputs.cache
+D:\Phase4\Day3\Ass2\Nunit\Nunit\obj\Debug\Nunit.csproj.CopyComplete
+D:\Phase4\Day3\Ass2\Nunit\Nunit\obj\Debug\Nunit.dll
+D:\Phase4\Day3\Ass2\Nunit\Nunit\obj\Debug\Nunit.pdb
